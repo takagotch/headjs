@@ -1,6 +1,6 @@
 ### headjs
 ---
-https://github.com/duojs/duo
+https://github.com/headjs/headjs
 
 ```
 ```
